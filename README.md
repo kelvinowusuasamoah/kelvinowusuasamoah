@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @kelvinowusuasamoah
+- Name: Owusu Kelvin Asamoah
+- index number: UEB3226422
+- BSc.Information Technology (Class D)
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+kelvinowusuasamoah/kelvinowusuasamoah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
